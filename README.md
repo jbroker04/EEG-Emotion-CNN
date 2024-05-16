@@ -57,4 +57,4 @@ The best-performing model achieved an accuracy of 85% on the test set using the 
 **Acknowledgments**
 ----------------
 
-We would like to thank the DEAP dataset creators for making the dataset publicly available.
+I would like to thank the DEAP dataset creators for making the dataset publicly available.
